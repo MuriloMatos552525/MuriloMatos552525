@@ -22,7 +22,7 @@
 
 ### Now Playing 🎧
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=317pypuoghm5vmznchtd2pxwte6m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=317pypuoghm5vmznchtd2pxwte6m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317pypuoghm5vmznchtd2pxwte6m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilomatos552525&show_icons=true&locale=en" alt="murilomatos552525" /></p>
