@@ -23,6 +23,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilomatos552525&show_icons=true&locale=en&layout=compact" alt="murilomatos552525" /></p>
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317pypuoghm5vmznchtd2pxwte6m)
+<br/>
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilomatos552525&show_icons=true&locale=en" alt="murilomatos552525" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilomatos552525&" alt="murilomatos552525" /></p>
