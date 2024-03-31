@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilomatos552525&label=Profile%20views&color=0e75b6&style=flat" alt="murilomatos552525" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilomatos552525" alt="murilomatos552525" /></a> </p>
 
 - 🔭 I’m currently working on [a movie app](https://github.com/MuriloMatos552525/Checkpoint1-MobileDevelopment)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-sigma-liart-55.vercel.app/](https://portfolio-sigma-liart-55.vercel.app/)
 
 - 💬 Ask me about **Java, cloud and cybersecurity**
 
@@ -25,9 +22,8 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/317pypuoghm5vmznchtd2pxwte6m)
-<br/>
----
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=317pypuoghm5vmznchtd2pxwte6m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=317pypuoghm5vmznchtd2pxwte6m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilomatos552525&show_icons=true&locale=en" alt="murilomatos552525" /></p>
 
