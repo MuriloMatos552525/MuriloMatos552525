@@ -1,7 +1,7 @@
 ![Banner](https://your-banner-image-url.com/banner.png)
 
 <h1 align="center">👋 Olá, eu sou o Murilo!</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Dev Formado em Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/murilo-matos-681a49270/" target="_blank">
